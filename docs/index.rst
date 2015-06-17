@@ -11,7 +11,7 @@ About
    :target: https://gilda.ct.infn.it 
 -------------
 
-The **mi-hostname-portlet** is portlet example able to submit a job into one or more distributed infrastructures (DCIs). This portlet contains almost all GUI elements to provide a complete input interface together with the necessary code to deal with DCIs settings, portlet preferences etc. The aim of this portlet is to use its code as a template that Science Gateway developers may customize to fit their own specific requirements. To faciciltate the customization process, a customize.sh bash script is included.
+The **mi-hostname-portlet** consists of a portlet example able to submit a job into one or more distributed infrastructures (DCIs). This portlet contains almost all GUI elements to provide a complete input interface together with the necessary code to deal with DCIs settings, portlet preferences etc. The aim of this portlet is to use its code as a template that Science Gateway developers may customize to fit their own specific requirements. To faciciltate the customization process, a customize.sh bash script is included inside the source code package.
 
 ============
 Installation
